@@ -1,2 +1,2 @@
 # ANNAssignment
-ANN Assignment
+Neural networks school assignment!
